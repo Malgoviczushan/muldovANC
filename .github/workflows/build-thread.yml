@@ -1,4 +1,4 @@
 name: Build thread
 on:
   repository_dispatch:
-  workflow_dispatch
+  workflow_dispatch:
